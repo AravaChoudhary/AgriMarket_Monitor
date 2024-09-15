@@ -2,4 +2,4 @@
 This is a repository for a project
 
 # Live Link : 
-agrimarketmonitor.streamlit.app
+https://agrimarketmonitor.streamlit.app
